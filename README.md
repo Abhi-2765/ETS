@@ -1,0 +1,2 @@
+# ETS
+Ethereum Trading Strategy
